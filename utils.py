@@ -203,7 +203,7 @@ async def generate_all_invites(guild):
                 invites[channel.name] = "Could not create invite (no permission)"
     return invites
 
-# Game-related functions
+# Game related functions
 def determine_rps_winner(player_choice, bot_choice):
     if player_choice == bot_choice:
         return "It's a tie!"
