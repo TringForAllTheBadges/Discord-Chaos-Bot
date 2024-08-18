@@ -23,3 +23,12 @@ This is a powerful Discord bot with various functionalities including server man
 
 Use !help to see a list of available commands.
 
+## Warning
+
+Some commands can damage servers. Use responsibly and only where allowed.
+
+## License
+
+MIT License
+
+
