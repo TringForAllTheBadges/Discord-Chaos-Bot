@@ -18,3 +18,8 @@ This is a powerful Discord bot with various functionalities including server man
    {
      "token": "YOUR_BOT_TOKEN_HERE"
    }
+
+## Usage 
+
+Use !help to see a list of available commands.
+
