@@ -19,6 +19,20 @@ This is a powerful Discord bot with various functionalities including server man
      "token": "YOUR_BOT_TOKEN_HERE"
    }
 
+## Running the Bot
+
+1. Open a terminal or command prompt
+2. Go to the directory containing `main.py`
+3. Run the following command:
+   ```sh
+   python main.py
+
+4. If successful, you should see a message saying the bot has connected to Discord
+5. Make sure you have Python installed on your system and added to your PATH.
+
+
+
+
 ## Bot Permissions
 
 When adding the bot to your server, make sure it has these permissions:
