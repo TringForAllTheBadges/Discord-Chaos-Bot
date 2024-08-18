@@ -34,7 +34,6 @@ MIT License
 ## Future Updates
 We plan to add more features in the future. Stay tuned for:
 
-- More mini-games
 - Advanced raid tools
 - Custom command creation
 
