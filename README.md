@@ -19,6 +19,24 @@ This is a powerful Discord bot with various functionalities including server man
      "token": "YOUR_BOT_TOKEN_HERE"
    }
 
+## Bot Permissions
+
+When adding the bot to your server, make sure it has these permissions:
+
+- Administrator (for full functionality)
+- Manage Server
+- Manage Roles
+- Manage Channels
+- Kick Members
+- Ban Members
+- Create Instant Invite
+- Send Messages
+- Manage Messages
+- Read Message History
+- Add Reactions
+
+
+
 ## Usage 
 
 Use !help to see a list of available commands.
